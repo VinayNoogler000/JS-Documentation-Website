@@ -42,4 +42,4 @@ Your feedback and contributions are welcome! If you have any suggestions or impr
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/VinayNoogler000/JS-Documentation-Website/blob/main/LICENSE.txt) file for details.
 
 ## Author:
-This project was created by [Vinay Tambey](https://github.com/VinayNoogler000).
+This project was created by [Vinay Tambey](https://www.linkedin.com/in/vinaytambey/).
